@@ -1,0 +1,92 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual C# Express 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02. Concatenation of two text files into other text file", "02. Concatenation of two text files into other text file\02. Concatenation of two text files into other text file.csproj", "{521DA9B8-E9E3-479B-9416-CAAB3390B4ED}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "04. Compares two text files", "04. Compares two text files\04. Compares two text files.csproj", "{24510BCB-8C2C-43CC-9BC7-7D769C1C6C84}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "06. Write sorted list", "06. Write sorted list\06. Write sorted list.csproj", "{105ED8DF-CD87-4BAA-8A3B-F48BDD013154}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01. Print odd lines", "01. Print odd lines\01. Print odd lines.csproj", "{A4DE3507-46B0-415E-8F45-DFF1F67FF36C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03. Insert line number in front each line in text file", "03. Insert line number in front each line in text file\03. Insert line number in front each line in text file.csproj", "{B7CFD827-92BA-4790-A681-3D12998BFCEB}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "05. Read max matrix sum in new text file", "05. Read max matrix sum in new text file\05. Read max matrix sum in new text file.csproj", "{FDC4F28E-C52F-4A29-9816-B2AA5569F2F4}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "07. Replace strings in text file", "07. Replace string start\07. Replace strings in text file.csproj", "{226C8E34-4378-4143-9A27-D54520CD6564}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "08. Replace words in text file", "08. Replace words in text file\08. Replace words in text file.csproj", "{C73D5418-13E7-4919-B3BD-BDFAE1E160C1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "09. Remove odd lines", "09. Remove odd lines\09. Remove odd lines.csproj", "{5E89E6E0-7395-4F17-BD3E-33054740F8C6}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "10. Removes tabs in text file", "10. Removes tabs in text file\10. Removes tabs in text file.csproj", "{81CAB5BF-195C-4DDB-9A74-745761D5E430}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "12. Removes words from tex file", "12. Removes words from tex file\12. Removes words from tex file.csproj", "{FE8CD9A8-4206-449A-A048-E0FFCC7FD788}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "11. RemoveSpecificWord", "11. RemoveSpecificWord\11. RemoveSpecificWord.csproj", "{8CA0BB5D-941D-42D3-9D18-0CEC7D848E92}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "13. CheckWordTwoFiles", "13. CheckWordTwoFiles\13. CheckWordTwoFiles.csproj", "{29AEFFA2-9E4D-4293-9203-E1E7E3CC5486}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{521DA9B8-E9E3-479B-9416-CAAB3390B4ED}.Debug|x86.ActiveCfg = Debug|x86
+		{521DA9B8-E9E3-479B-9416-CAAB3390B4ED}.Debug|x86.Build.0 = Debug|x86
+		{521DA9B8-E9E3-479B-9416-CAAB3390B4ED}.Release|x86.ActiveCfg = Release|x86
+		{521DA9B8-E9E3-479B-9416-CAAB3390B4ED}.Release|x86.Build.0 = Release|x86
+		{24510BCB-8C2C-43CC-9BC7-7D769C1C6C84}.Debug|x86.ActiveCfg = Debug|x86
+		{24510BCB-8C2C-43CC-9BC7-7D769C1C6C84}.Debug|x86.Build.0 = Debug|x86
+		{24510BCB-8C2C-43CC-9BC7-7D769C1C6C84}.Release|x86.ActiveCfg = Release|x86
+		{24510BCB-8C2C-43CC-9BC7-7D769C1C6C84}.Release|x86.Build.0 = Release|x86
+		{105ED8DF-CD87-4BAA-8A3B-F48BDD013154}.Debug|x86.ActiveCfg = Debug|x86
+		{105ED8DF-CD87-4BAA-8A3B-F48BDD013154}.Debug|x86.Build.0 = Debug|x86
+		{105ED8DF-CD87-4BAA-8A3B-F48BDD013154}.Release|x86.ActiveCfg = Release|x86
+		{105ED8DF-CD87-4BAA-8A3B-F48BDD013154}.Release|x86.Build.0 = Release|x86
+		{A4DE3507-46B0-415E-8F45-DFF1F67FF36C}.Debug|x86.ActiveCfg = Debug|x86
+		{A4DE3507-46B0-415E-8F45-DFF1F67FF36C}.Debug|x86.Build.0 = Debug|x86
+		{A4DE3507-46B0-415E-8F45-DFF1F67FF36C}.Release|x86.ActiveCfg = Release|x86
+		{A4DE3507-46B0-415E-8F45-DFF1F67FF36C}.Release|x86.Build.0 = Release|x86
+		{B7CFD827-92BA-4790-A681-3D12998BFCEB}.Debug|x86.ActiveCfg = Debug|x86
+		{B7CFD827-92BA-4790-A681-3D12998BFCEB}.Debug|x86.Build.0 = Debug|x86
+		{B7CFD827-92BA-4790-A681-3D12998BFCEB}.Release|x86.ActiveCfg = Release|x86
+		{B7CFD827-92BA-4790-A681-3D12998BFCEB}.Release|x86.Build.0 = Release|x86
+		{FDC4F28E-C52F-4A29-9816-B2AA5569F2F4}.Debug|x86.ActiveCfg = Debug|x86
+		{FDC4F28E-C52F-4A29-9816-B2AA5569F2F4}.Debug|x86.Build.0 = Debug|x86
+		{FDC4F28E-C52F-4A29-9816-B2AA5569F2F4}.Release|x86.ActiveCfg = Release|x86
+		{FDC4F28E-C52F-4A29-9816-B2AA5569F2F4}.Release|x86.Build.0 = Release|x86
+		{226C8E34-4378-4143-9A27-D54520CD6564}.Debug|x86.ActiveCfg = Debug|x86
+		{226C8E34-4378-4143-9A27-D54520CD6564}.Debug|x86.Build.0 = Debug|x86
+		{226C8E34-4378-4143-9A27-D54520CD6564}.Release|x86.ActiveCfg = Release|x86
+		{226C8E34-4378-4143-9A27-D54520CD6564}.Release|x86.Build.0 = Release|x86
+		{C73D5418-13E7-4919-B3BD-BDFAE1E160C1}.Debug|x86.ActiveCfg = Debug|x86
+		{C73D5418-13E7-4919-B3BD-BDFAE1E160C1}.Debug|x86.Build.0 = Debug|x86
+		{C73D5418-13E7-4919-B3BD-BDFAE1E160C1}.Release|x86.ActiveCfg = Release|x86
+		{C73D5418-13E7-4919-B3BD-BDFAE1E160C1}.Release|x86.Build.0 = Release|x86
+		{5E89E6E0-7395-4F17-BD3E-33054740F8C6}.Debug|x86.ActiveCfg = Debug|x86
+		{5E89E6E0-7395-4F17-BD3E-33054740F8C6}.Debug|x86.Build.0 = Debug|x86
+		{5E89E6E0-7395-4F17-BD3E-33054740F8C6}.Release|x86.ActiveCfg = Release|x86
+		{5E89E6E0-7395-4F17-BD3E-33054740F8C6}.Release|x86.Build.0 = Release|x86
+		{81CAB5BF-195C-4DDB-9A74-745761D5E430}.Debug|x86.ActiveCfg = Debug|x86
+		{81CAB5BF-195C-4DDB-9A74-745761D5E430}.Debug|x86.Build.0 = Debug|x86
+		{81CAB5BF-195C-4DDB-9A74-745761D5E430}.Release|x86.ActiveCfg = Release|x86
+		{81CAB5BF-195C-4DDB-9A74-745761D5E430}.Release|x86.Build.0 = Release|x86
+		{FE8CD9A8-4206-449A-A048-E0FFCC7FD788}.Debug|x86.ActiveCfg = Debug|x86
+		{FE8CD9A8-4206-449A-A048-E0FFCC7FD788}.Debug|x86.Build.0 = Debug|x86
+		{FE8CD9A8-4206-449A-A048-E0FFCC7FD788}.Release|x86.ActiveCfg = Release|x86
+		{FE8CD9A8-4206-449A-A048-E0FFCC7FD788}.Release|x86.Build.0 = Release|x86
+		{8CA0BB5D-941D-42D3-9D18-0CEC7D848E92}.Debug|x86.ActiveCfg = Debug|x86
+		{8CA0BB5D-941D-42D3-9D18-0CEC7D848E92}.Debug|x86.Build.0 = Debug|x86
+		{8CA0BB5D-941D-42D3-9D18-0CEC7D848E92}.Release|x86.ActiveCfg = Release|x86
+		{8CA0BB5D-941D-42D3-9D18-0CEC7D848E92}.Release|x86.Build.0 = Release|x86
+		{29AEFFA2-9E4D-4293-9203-E1E7E3CC5486}.Debug|x86.ActiveCfg = Debug|x86
+		{29AEFFA2-9E4D-4293-9203-E1E7E3CC5486}.Debug|x86.Build.0 = Debug|x86
+		{29AEFFA2-9E4D-4293-9203-E1E7E3CC5486}.Release|x86.ActiveCfg = Release|x86
+		{29AEFFA2-9E4D-4293-9203-E1E7E3CC5486}.Release|x86.Build.0 = Release|x86
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Express 2012 for Windows Desktop
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "01_ KaspichanNumbers", "01_ KaspichanNumbers\01_ KaspichanNumbers.csproj", "{3874A320-78FD-41D2-B39E-160A72FDC3E3}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "02_GreedyDwarf", "02_GreedyDwarf\02_GreedyDwarf.csproj", "{B74CA4D8-8984-4EB3-9E39-0AEC3B656635}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "03_Slides", "03_Slides\03_Slides.csproj", "{7ED06039-A2F1-4BE5-AAFE-626A5B7169B9}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{3874A320-78FD-41D2-B39E-160A72FDC3E3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{3874A320-78FD-41D2-B39E-160A72FDC3E3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{3874A320-78FD-41D2-B39E-160A72FDC3E3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{3874A320-78FD-41D2-B39E-160A72FDC3E3}.Release|Any CPU.Build.0 = Release|Any CPU
+		{B74CA4D8-8984-4EB3-9E39-0AEC3B656635}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B74CA4D8-8984-4EB3-9E39-0AEC3B656635}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B74CA4D8-8984-4EB3-9E39-0AEC3B656635}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B74CA4D8-8984-4EB3-9E39-0AEC3B656635}.Release|Any CPU.Build.0 = Release|Any CPU
+		{7ED06039-A2F1-4BE5-AAFE-626A5B7169B9}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{7ED06039-A2F1-4BE5-AAFE-626A5B7169B9}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{7ED06039-A2F1-4BE5-AAFE-626A5B7169B9}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{7ED06039-A2F1-4BE5-AAFE-626A5B7169B9}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
